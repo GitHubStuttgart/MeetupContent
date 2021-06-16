@@ -4,7 +4,7 @@ In diesem Repo lege ich den Inhalt aus den einzelnen Meetups ab.
 
 ## 16.06.2021 - The Future of the (remote) Development Workplace
 __Title__: The Future of the (remote) Development Workplace  
-__Handout__: [Future_of_the_dev_workplace.pdf](docs/Future_of_the_dev_workplace.pdf)  
+__Handout__: [Future_of_the_dev_workplace.pdf](doc/Future_of_the_dev_workplace.pdf)  
 __Date__: 6/16/2021
 __Speaker__: [@wulfland](https://github.com/wulfland)  
 
