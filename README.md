@@ -2,6 +2,14 @@
 
 In this repo you can find the content and handouts for the meetup.
 
+## Upcoming  
+
+### 27.04.2022 Community update April  
+
+__Title__: Community update April  
+__Date__: 4/27/2022
+__Speaker__: [@wulfland](https://github.com/wulfland)  
+
 ## Handouts
 
 ### 23.03.2022 Community update March  
