@@ -4,10 +4,16 @@ In this repo you can find the content and handouts for the meetup.
 
 ## Handouts
 
-### 22.03.2023 - Adding 
+### 26.04.2023 - Community update April
+__Title__: Community update March  
+__Handout__: [GitHub_CommunityCall_2023-04-26.pdf](doc/communityupdate/GitHub_CommunityCall_2023-04-26.pdf)  
+__Date__: 4/26/2023
+__Speaker__: [@wulfland](https://github.com/wulfland)  
+
+### 22.03.2023 - Community update March 
 __Title__: Community update March  
 __Handout__: [GitHub_CommunityCall_2023-03-22.pdf](doc/communityupdate/GitHub_CommunityCall_2023-03-22.pdf)  
-__Date__: 3/22/2022
+__Date__: 3/22/2023
 __Speaker__: [@wulfland](https://github.com/wulfland)  
 
 ### 27.04.2022 Community update May  
